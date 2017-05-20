@@ -1,6 +1,7 @@
-name: Rupert Benbrook
+title: rupertbenbrook.com
 description: Random technological babblings
 theme: jekyll-theme-cayman
+lang: en-GB
 
 #gems:
 #  - jekyll-sitemap
