@@ -2,7 +2,14 @@ title: rupertbenbrook.com
 description: Random technological babblings
 theme: jekyll-theme-cayman
 lang: en-GB
-comments: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      comments: true
 
 #gems:
 #  - jekyll-sitemap
