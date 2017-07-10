@@ -2,6 +2,7 @@ title: rupertbenbrook.com
 description: Random technological babblings
 theme: jekyll-theme-cayman
 lang: en-GB
+comments: true
 
 #gems:
 #  - jekyll-sitemap
